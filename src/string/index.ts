@@ -33,3 +33,6 @@ export type { SemverOptions } from './semver/index.js';
 
 export { cron } from './cron/index.js';
 export type { CronOptions } from './cron/index.js';
+
+export { otp } from './otp/index.js';
+export type { OtpOptions } from './otp/index.js';
