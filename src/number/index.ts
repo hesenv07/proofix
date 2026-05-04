@@ -12,3 +12,6 @@ export type { LongitudeOptions } from './longitude/index.js';
 
 export { port } from './port/index.js';
 export type { PortOptions } from './port/index.js';
+
+export { fileSize } from './fileSize/index.js';
+export type { FileSizeOptions } from './fileSize/index.js';
