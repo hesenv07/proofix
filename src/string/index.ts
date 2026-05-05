@@ -39,3 +39,6 @@ export type { OtpOptions } from './otp/index.js';
 
 export { base64, base64url } from './base64/index.js';
 export type { Base64Options } from './base64/index.js';
+
+export { swiftCode } from './swiftCode/index.js';
+export type { SwiftCodeOptions } from './swiftCode/index.js';
