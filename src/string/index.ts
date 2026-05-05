@@ -36,3 +36,6 @@ export type { CronOptions } from './cron/index.js';
 
 export { otp } from './otp/index.js';
 export type { OtpOptions } from './otp/index.js';
+
+export { base64, base64url } from './base64/index.js';
+export type { Base64Options } from './base64/index.js';
