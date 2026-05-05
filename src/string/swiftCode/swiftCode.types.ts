@@ -1,3 +1,9 @@
-import type { BaseValidatorOptions } from '../../shared';
+export interface SwiftCodeOptions {
+  message?: string | SwiftCodeMessage;
+}
 
-export type SwiftCodeOptions = BaseValidatorOptions;
+export interface SwiftCodeMessage {
+  invalidFormat?: string;
+  invalidLength?: string;
+  [key: string]: string | undefined;
+}
