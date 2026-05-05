@@ -9,6 +9,3 @@ export type { AgeRangeOptions } from './ageRange/index.js';
 
 export { workingDay } from './workingDay/index.js';
 export type { WorkingDayOptions } from './workingDay/index.js';
-
-export { dateRange } from './dateRange/index.js';
-export type { DateRangeInput } from './dateRange/index.js';
