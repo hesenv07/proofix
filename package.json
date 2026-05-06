@@ -1,6 +1,6 @@
 {
   "name": "proofix",
-  "version": "0.2.0",
+  "version": "0.1.2",
   "description": "Production-ready Zod validators for real-world data — names, passwords, IBANs, IPs and more",
   "license": "MIT",
   "type": "module",
